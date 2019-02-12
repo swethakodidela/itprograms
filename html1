@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> list item creation </title>
+</head>
+<body>
+<!---ordered list type -1,A,a,i,I--->
+<ol type='1' start=3>
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ol>
+<!---unordered list type -circle,square--->
+<ul type='square'>
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+</body>
+</html>
