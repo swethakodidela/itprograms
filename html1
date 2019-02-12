@@ -10,7 +10,7 @@
     <li>third item</li>
 </ol>
 <!---unordered list type -circle,square--->
-<ul type='square'>
+<ul type='circle'>
     <li>first item</li>
     <li>second item</li>
     <li>third item</li>
